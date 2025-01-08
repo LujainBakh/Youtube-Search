@@ -1,6 +1,6 @@
 # Youtube Search
 
-# Project Overview
+## Project Overview
 
 This repository contains `source.ipynb`, a Jupyter Notebook showcasing the use of large language models (LLMs) that i worked on during a very enriching bootcamp preseneted by Eng. Sulaiman Ureiga. 
 
